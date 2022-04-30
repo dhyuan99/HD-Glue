@@ -18,3 +18,9 @@ If you don't want to compute the embeddings by yourself, you can download the pr
 
 After saving the embeddings, run e.g. `python train_HD.py -size 1000 -dim 8000 -dataset CIFAR10` to get the experiment results. To see all the combinations, you can check and run `sh train_HD.sh`. 
 
+### Future Development
+
+The HDC utilities with GPU support is under development. If you use our project, please cite:
+``
+
+``
