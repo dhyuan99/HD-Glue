@@ -16,5 +16,5 @@ After obtaining the neural networks, run `python gen_emb.py -dataset CIFAR10` an
 
 If you don't want to compute the embeddings by yourself, you can download the pre-computed embeddings [here](https://drive.google.com/drive/folders/10sl3PKY4TkNlnvvwZbXIExS2ZepDcfN1?usp=sharing) and place them to `HD-Glue/emb/`.
 
-After saving the embeddings, run e.g. `python train_HD.py -size 1000 -dim 8000 -dataset CIFAR10` to get the experiment results. To see all the combinations, you can check and run `sh HD_static.sh`. 
+After saving the embeddings, run e.g. `python train_HD.py -size 1000 -dim 8000 -dataset CIFAR10` to get the experiment results. To see all the combinations, you can check and run `sh train_HD.sh`. 
 
