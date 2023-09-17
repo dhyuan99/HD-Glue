@@ -21,7 +21,7 @@ After saving the embeddings, run e.g. `python train_HD.py -size 1000 -dim 8000 -
 ### Future Development
 
 The HDC utilities with GPU support is under development. If you use our project, please cite:
-```json
+```
 @inproceedings{sutor2022gluing,
   title={Gluing neural networks symbolically through hyperdimensional computing},
   author={Sutor, Peter and Yuan, Dehao and Summers-Stay, Douglas and Fermuller, Cornelia and Aloimonos, Yiannis},
